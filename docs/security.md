@@ -17,3 +17,4 @@ contained in this repository.
 
 If you believe you have discovered a security vulnerability, please follow the
 guidelines at https://bugcrowd.com/squareopensource
+https://www.github.com/luis33338/This-is-an-agile-HTML-parser-that-builds-a-read-write-DOM-and-supports-plain-XPATH-or-XSLT-you-actu/tree/luis33338-30610/.github%2FFUNDING.yml
